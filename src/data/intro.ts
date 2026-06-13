@@ -5,34 +5,34 @@ export interface SocialLink {
 }
 
 export const intro = {
-  name: "Muhammad Danial Khilji",
-  title: "Data Scientist | Machine Learning Engineer",
+  name: "Tansvi Sheoran",
+  title: "Final-year B.Com Hons student at University of Delhi — Valuation & KPI analytics",
 };
 
 export const socialLinks: SocialLink[] = [
   {
     label: "LinkedIn",
-    url: "https://www.linkedin.com/in/danialkhilji/",
+    url: "https://www.linkedin.com/in/tansvi-sheoran-a00537301",
     icon: "bi:linkedin",
   },
   {
     label: "GitHub",
-    url: "https://github.com/danialkhilji",
+    url: "https://github.com/tansvisheoran",
     icon: "bi:github",
   },
   {
     label: "Medium",
-    url: "https://medium.com/@khiljidanial",
+    url: "https://medium.com/",
     icon: "bi:medium",
   },
   {
     label: "ResearchGate",
-    url: "https://www.researchgate.net/profile/Danial-Khilji",
+    url: "https://www.researchgate.net/",
     icon: "bi:journal-text",
   },
   {
     label: "Email",
-    url: "mailto:danialkhilji@yahoo.com",
+    url: "mailto:tansvi06@gmail.com",
     icon: "bi:envelope-fill",
   },
 ];
